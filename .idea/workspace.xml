@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11a65082-d0de-4cf0-b382-dbdb4c776c98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_2/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_2/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +47,33 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Lec_1.executor": "Run",
+    "Python.Lec_10.executor": "Run",
+    "Python.Lec_11.executor": "Run",
+    "Python.Lec_2.executor": "Run",
+    "Python.Lec_3.executor": "Run",
+    "Python.Lec_4.executor": "Run",
+    "Python.Lec_5.executor": "Run",
+    "Python.Lec_6.executor": "Run",
+    "Python.Lec_8.executor": "Run",
+    "Python.Lec_9.executor": "Run",
+    "Python.Recursive_function.executor": "Run",
     "Python.Task_1.executor": "Run",
     "Python.Task_2.executor": "Run",
+    "Python.arguments.executor": "Run",
+    "Python.continue_break.executor": "Run",
+    "Python.docstrings.executor": "Run",
+    "Python.for_loop.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.if_block.executor": "Run",
+    "Python.if_else_block.executor": "Run",
+    "Python.nested_loops.executor": "Run",
+    "Python.number_guess.executor": "Run",
+    "Python.random_module.executor": "Run",
+    "Python.range_fxn.executor": "Run",
+    "Python.returning_values.executor": "Run",
+    "Python.roll_a_dice.executor": "Run",
+    "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -55,9 +82,16 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Rhythm/Desktop/Programming/Python/TuteDude",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rhythm\Desktop\Programming\Python\TuteDude" />
+      <recent name="C:\Users\Rhythm\Desktop\Programming\Python\TuteDude\Module_9" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
